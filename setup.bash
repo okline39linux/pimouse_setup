@@ -1,5 +1,4 @@
 #!/bin/bash -xve
-#written takeshi
 
 exec 2> /tmp/setup.log
 
