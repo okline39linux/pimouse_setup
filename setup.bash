@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written okitsu
 
 exec 2> /tmp/setup.log
 
